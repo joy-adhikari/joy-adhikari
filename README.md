@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋 I'm Joy Adhikari
 
-<!--
-**joy-adhikari/joy-adhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year BCA Student  
+💻 Interested in Python, C, and Open Source  
+🚀 Currently learning and contributing to Open Source  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python
+- C
+- Basic Java
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🎮 Python Game (CS50x Final Project)
