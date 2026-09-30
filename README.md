@@ -43,15 +43,14 @@
 **🎮 Game Development:**
 <div>
 
-![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue)
+![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=green)
 
 </div>
 
 **🛡️ Cybersecurity Toolkit:**
 <div>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
@@ -106,22 +105,12 @@
 
 <div>
 
-<img src="https://github-readme-stats.shion.dev/api?username=joy-adhikari&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-
 <img src="https://streak-stats.demolab.com/?user=joy-adhikari&theme=dark&hide_border=false" />
+
+<img src="https://github-readme-stats.shion.dev/api?username=joy-adhikari&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joy-adhikari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-</div>
-
-<br>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=joy-adhikari&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 <br>
